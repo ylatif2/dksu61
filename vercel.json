@@ -1,0 +1,9 @@
+{
+  "routes": [
+           { "src": "/", "dest": "/dksu.html" },
+      { "src": "/duzkoy-sut-urunleri-hakkimizda", "dest": "/dksu1.html" },
+      { "src": "/duzkoy-sut-urunleri-neler-yapariz", "dest": "/dksu2.html" },
+      { "src": "/duzkoy-sut-urunleri-sss", "dest": "/dksu3.html" },
+      { "src": "/duzkoy-sut-urunleri-iletisim", "dest": "/dksu4.html" },
+  ]
+}
